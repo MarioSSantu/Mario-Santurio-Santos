@@ -1,0 +1,13 @@
+{
+    "usuario":{
+            "nombre":"Real Madrid C.F",
+            "alias": "@Real Madrid C.F",
+            "correo": "realmadrid@rfef.es",
+            "foto":"escudorealmadrid.png",
+            "seguidores": ["Florentino Pérez","Real Madrid ultras","Vinisiu titular"]
+    },
+    "contenido": "Final del partido, 2-1 Espanyol-Real Madrid, perdemos fuera de casa por primera vez esta temporada",
+    "retweets": "200",
+    "megusta": "5000",
+    "comentarios": ["Volvemos a hacer el rídiculo","Cuando no ayuda el árbitro pasan estas cosas","tranquilidad seguimos líderes", "terrible banda somos atrás","gran partido del Espanyol que mereció incluso más"]
+}

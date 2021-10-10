@@ -1,0 +1,23 @@
+<tweet>
+<usuario>
+    <nombre>Real Madrid C.F</nombre>
+    <alias>@Real Madrid C.F</alias>
+    <correo>realmadrid@rfef.es</correo>
+    <foto>escudorealmadrid</foto>
+    <seguidores>
+        <seguidor>Florentido Pérez</seguidor>
+        <seguidor>Real madrid ultras</seguidor>
+        <seguidor>Vinisiu titular</seguidor>
+    </seguidores>
+</usuario>
+<contenido>Final del partido, 2-1 Espanyol-Real Madrid, perdemos fuera de casa por primera vez esta temporada</contenido>
+<retweets>200</retweets>
+<megusta>5000</megusta>
+<comentarios>
+    <comentario1>volvemos a hacer el ridículo</comentario1>
+    <comentario2>cuando no ayuda el árbitro pasan cosas</comentario2>
+    <comentario3>tranquilidad seguimos líderes</comentario3>
+    <comentario4>terrible banda somos atrás</comentario4>
+    <comentario5>gran partido del Espanyol que mereció incluso más</comentario5>
+</comentarios>
+</tweet>
